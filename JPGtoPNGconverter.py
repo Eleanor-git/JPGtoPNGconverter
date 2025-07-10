@@ -1,6 +1,3 @@
-'''convert all images from jpg to png by executing JPGtoPNGconverter.py <Dir1> <Dir2 = new>
-loop through images in Dir1 Meanwhile converting them to png in Dir2 '''
-
 import sys, os, re
 from PIL import Image
 import pdb
